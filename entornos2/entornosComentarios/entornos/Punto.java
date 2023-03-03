@@ -26,6 +26,11 @@ public class Punto {
 		this.x = x;
 		this.y = y;
 	}
+	public Punto(int x) {
+		// Punto en el sistema cartesiano de coordenadas
+		this.x = x;
+		
+	}
 
 	// METODOS
 	/**
